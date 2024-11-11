@@ -1,5 +1,5 @@
 # README
-This repository contains supplemental figures for [Folsom et al. (2024)](https://arxiv.org/abs/2408.02723), "Cosmological Simulations of Stellar Halos with *Gaia* Sausage–Enceladus Analogues." These figures are also available in Appendix C of the preprint, [arXiv:2408.02723](https://arxiv.org/abs/2408.02723). The images in the folders here correspond to the panels in Figures 4, 5, 6, and 8, with one file for each set of radially anisotropic (RA) stellar debris. The files follow the naming convention
+This repository contains supplemental figures for [Folsom et al. (2024)](https://arxiv.org/abs/2408.02723), "Cosmological Simulations of Stellar Halos with *Gaia* Sausage–Enceladus Analogues." These figures are also available in Appendix C of the preprint, [arXiv:2408.02723](https://arxiv.org/abs/2408.02723). The images in the folders here correspond to the panels in Figures 4, 5, 6, and 8, with descriptions of the figures provided in the main text. There is one file for each set of radially anisotropic (RA) stellar debris. The files follow the naming convention
 ```
 <N>-<MW ID>[-2].png
 ```
